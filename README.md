@@ -90,7 +90,7 @@ Repositório criado para o desafio de configuração de uma Instância de Banco 
 22. Agora configure as marcas do Azure selecionando `Avançar: Marcas` (recomendado).
 
 ### 📝 Marcações
-23. Adicione marcas aos recursos no modelo do ARM (modelo do Azure Resource Manager). As marcas ajudam você a organizar logicamente seus recursos. Os valores de marca são mostrados nos relatórios de custo e permitem outras atividades de gerenciamento por marca. Considere pelo menos marcar sua nova instância gerenciada de SQL com a marca Proprietário para identificar quem criou e a marca Ambiente para identificar se esse sistema é Produção, Desenvolvimento etc. 
+23. Adicione marcas para organizar os recursos, facilitar a gestão e o controle de custos. Use, por exemplo, as marcas Proprietário (quem criou) e Ambiente (Produção, Desenvolvimento etc).
 
 24. Na guia `Revisar + criar` , examine suas escolhas e selecione Criar para implantar sua instância gerenciada de SQL.
 
