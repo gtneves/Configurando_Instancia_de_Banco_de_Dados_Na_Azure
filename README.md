@@ -1,0 +1,1 @@
+# Configura-o-de-uma-Inst-ncia-de-Banco-de-Dados-na-Azure
